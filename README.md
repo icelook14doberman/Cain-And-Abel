@@ -213,4 +213,4 @@ Cain & Abel is available as a complete free version, providing all features and 
 Don't wait any longer! Download **Cain & Abel** today and regain control over your lost passwords.
 
 ---
-**Last updated:** 2026-10-04 15:02:40 UTC
+**Last updated:** 2026-10-04 18:53:54 UTC
